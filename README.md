@@ -1,7 +1,11 @@
 # Predicting-Store-Purchases-using-ML-with-Python
 
-In this project, the obtained data "marketing_data.csv" is analysed to understand the status of a marketing campaign and propose data-driven solutions to improve the marketing campaign results. 
-The marketing data was sourced from Marketing Analytics by Jennifer Crockett on Kaggle.
+In this project, the obtained data "marketing_data.csv" is analysed to understand the status of a marketing campaign and propose data-driven solutions to improve the marketing campaign results. The marketing data was sourced from Marketing Analytics by Jennifer Crockett on Kaggle.
+
+Machine learning models were built to predict store purchases which have more of a continuous nature. The machine learning algorithms applied are:
+
+- Decision Tree Regressor
+- Random Forest Regressor
 
 ## Findings 🔍
 
